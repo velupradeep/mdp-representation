@@ -32,6 +32,7 @@ The reward function guides the agent: +10 â†’ Successfully picking up food +20 â
 
 
 ## PYTHON REPRESENTATION:
+```
 P = {
   0: {
     0: [(1.0, 0, -2.0, False)],
@@ -52,7 +53,7 @@ P = {
     3: [(1.0, 2, 0, True)]
   }
 }
-
+```
 
 ## OUTPUT:
 <img width="296" height="294" alt="586895252-db4bc3ef-9bed-485f-8200-8667126d09d5" src="https://github.com/user-attachments/assets/5c167444-036b-472e-a45d-a46914c3b510" />
