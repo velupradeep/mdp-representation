@@ -1,34 +1,37 @@
-MDP REPRESENTATION
-AIM:
+# MDP REPRESENTATION
+
+## AIM:
 Write your aim here
 
-PROBLEM STATEMENT:
-Problem Description
+## PROBLEM STATEMENT:
+
+### Problem Description
 Write your answer here
 
-State Space
+### State Space
 Write your answer here
 
-Sample State
+### Sample State
 Write your answer here
 
-Action Space
+### Action Space
 Write your answer here
 
-Sample Action
+### Sample Action
 Write your answer here
 
-Reward Function
+### Reward Function
 Write your answer here
 
-Graphical Representation
+### Graphical Representation
 Write your answer here
 
-PYTHON REPRESENTATION:
+## PYTHON REPRESENTATION:
 Write your code here
 
-OUTPUT:
+## OUTPUT:
 Write your Python output here
 
-RESULT:
+## RESULT:
 Write your output here
+
